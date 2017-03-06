@@ -18,4 +18,4 @@ I did not decide to use some fancy latex class and I simply customized the `book
 - To typeset my Curriculum Vitae, the [moderncv template](http://www.latextemplates.com/template/moderncv-cv-and-cover-letter) was used with minor modifications.
 
 ### External links
-[Here](https://github.com/AxelKrypton/Goethe_University_PhD_thesis_bureaucracy), you can find the TeX code for the title page.
+[Here](https://github.com/AxelKrypton/Goethe_University_PhD_thesis_bureaucracy), you can find the TeX code for the title page (together with some useful information if you are a Ph.D. student at J. W. Goethe Universität in Frankfurt).
