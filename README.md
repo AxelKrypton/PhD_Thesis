@@ -19,3 +19,19 @@ I did not decide to use some fancy latex class and I simply customized the `book
 
 ### External links
 [Here](https://github.com/AxelKrypton/Goethe_University_PhD_thesis_bureaucracy), you can find the TeX code for the title page (together with some useful information if you are a Ph.D. student at J. W. Goethe Universität in Frankfurt).
+
+### Citing the thesis
+If you wish to cite this thesis in any of your work, feel free to do it.
+A possibility for your bibTeX entry could look like in the following.
+Of course, you could use the [BibLaTeX](https://ctan.org/pkg/biblatex) package to customize your bibliography layout.
+```
+@phdthesis{sciarra,
+    Title       = {The QCD phase diagram at purely imaginary chemical potential from the lattice},
+    Author      = {Sciarra, Alessandro},
+    Institution = {{Johann Wolfgang Goethe Universit\"at}},
+    Location    = {{Frankfurt am Main}},
+    Year        = {2016},
+    Pages       = {209},
+    Url         = {https://github.com/AxelKrypton/PhD_Thesis}
+}
+```
